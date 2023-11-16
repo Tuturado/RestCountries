@@ -1,7 +1,7 @@
 # Rest Countries 🤖
 Projeto responsável por consumir a api Rest Countries e tratar os dados de acordo com o solicitado.
 
-### Status do Projeto :white_check_mark:
+### Status do Projeto
 O projeto não foi concluido com sucesso, faltaram alguns detalhes. 
 
 
